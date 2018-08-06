@@ -1,4 +1,4 @@
-# Random Forest treinamento
+# Random Forest 
 
 ## Sobre a base de dados:
 <b>Base de Dados:</b> Titanic: Machine Learning from Disaster
